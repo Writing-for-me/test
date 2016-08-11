@@ -1,6 +1,6 @@
 # test
 
-### Equality, Equivalence, and Enemies
+# Equality, Equivalence, and Enemies
 ## On the Metaphysics of Liberalism
 
 On May 13, 2016 The New Yorker published an article ‘The
@@ -17,7 +17,7 @@ and leaves her readers to imagine the horrors that would
 follow if Trump were to be elected. Within the discourse 
 of liberalism and its metaphysical opposition between 
 (western parliamentary) democracy and totalitarianism --which
-in this article is 'China's socialist plutocracy--the 
+in this article is 'China's socialist plutocracy'--the 
 ultimate measure of the evil of a ruler is the death count 
 that can be attributed to his personage. Within this framework,
 what is Hitler’s ten million person holocaust compared to the 
@@ -39,11 +39,7 @@ demons and thugs to be vigilantly resisted.’  In Fan’s view such
 a distinction between the people and the enemy is part of ‘the us
 -versus-them dichotomy,’ which is, ‘a cornerstone of Maoism’ and 
 ‘effectively painted the world in black and white, banishing 
-diversity, difference, or considerations of civil liberty.’ We 
-will have occasion to examine Mao’s writing on the distinction 
-between the people and the enemy later in this essay, but first
-it is necessary to analyze the position Fan is attributing to 
-Mao and thus also to Trump.
+diversity, difference, or considerations of civil liberty.’ 
 
 The crux of Fan’s argument hinges on a reductive re-presentation
 of Mao’s theory of contradictions (in this case between the people
@@ -60,10 +56,57 @@ makes the claim that Mao's worldview has 'found curious potency'
 in Trump's mouth. The lack of any concrete comparison between
 the two and what they have said is indicative of the general 
 degree of abstraction that is necessary to sustain such an equivalence.
+
+
 Through abstracting Fan can claim that Trump's 'polemical excess and
-xenophobic paranoia', presumably followed by grotesque fascination by 
+xenophobic paranoia', presumably followed with grotesque fascination by 
 the readers of The New Yorker, has its origin in Mao's speech 'On the
-Correct Handling of Contradictions Among the People.'
+Correct Handling of Contradictions Among the People'. After reading
+Fan's article, one would expect to find in Mao's speech a 'polemical
+excess' which supports Fan's claim that 'the people were effectively 
+the in-group, while the enemy was nothing but a collection of demons 
+and thugs to be vigilantly resisted.' Yet, if one actually investigates
+it becomes clear that Fan has taken great liberties in her re-presentation
+of Mao's speech, and his worldview in general. First, Mao articulates that
+'the concept of "the people" varies in content in different countries and
+in different periods of history in a given country,' and goes on to state 
+that 'In the conditions prevailing in China today, the contradictions 
+among the people comprise the contradictions within the working class, 
+the contradictions within the peasantry, the contradictions within the 
+intelligentsia, the contradictions between the working class and the peasantry
+, the contradictions between the workers and peasants on the one hand and the 
+intellectuals on the other, the contradictions between the working class and 
+other sections of the working people on the one hand and the national bourgeoisie
+on the other, the contradictions within the national bourgeoisie, and so on.' 
+
+In Mao's analysis, 'the people' are anything but a small 'in-group' but rather
+amount to over 90% of China's population at the time. What's more, Mao's speech,
+as the title suggests, is an articulation of a method for handling contradictions
+among the people, so as to prevent the becoming antagonistic of non-antagonistic
+contradictions. As Mao points out in 'On Contradiction', 'each and every difference
+already contains contradiction and that difference itself is contradiction.' Thus, 
+in elaborating on the complex nature of objective contradictions in China in 1957
+also outlines the means for subjectively intervening into various situations to
+correctly handle these contradictions among the people. This nuanced articulation
+stands in sharp contrast to Fan's claim that Mao 'effectively painted the world 
+in black and white, banishing diversity, difference, or considerations of civil 
+liberty.' 
+
+In, 'On the Correct Handling of Contradictions Among the People'
+Mao elaborates on the means by which it is possible to handle contradictions 
+among the people so as to avoid a bureaucratic surpression of the democratic 
+rights of the people. 'We in no way mean that coercive measures should be taken
+to settle ideological questions or questions involving the distinction between 
+right and wrong among the people. All attempts to use administrative orders or 
+coercive measures to settle ideological questions or questions of right and wrong
+are not only ineffective but harmful. We cannot abolish religion by administrative
+order or force people not to believe in it. We cannot compel people to give up 
+idealism, any more than we can force them to embrace Marxism. The only way to 
+settle questions of an ideological nature or controversial issues among the people
+is by the democratic method, the method of discussion, criticism, persuasion and 
+education, and not by the method of coercion or repression.' Against the dominate
+narrative, repeated by Fan, that the dictatorship of proletariat in China was
+
 
 
 
