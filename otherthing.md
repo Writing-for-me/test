@@ -67,10 +67,10 @@ excess' which supports Fan's claim that 'the people were effectively
 the in-group, while the enemy was nothing but a collection of demons 
 and thugs to be vigilantly resisted.' Yet, if one actually investigates
 it becomes clear that Fan has taken great liberties in her re-presentation
-of Mao's speech, and his worldview in general. First, Mao articulates that
-'the concept of "the people" varies in content in different countries and
-in different periods of history in a given country,' and goes on to state 
-that 'In the conditions prevailing in China today, the contradictions 
+of Mao's speech, and his worldview in general. For example, Mao articulates
+that 'the concept of "the people" varies in content in different countries 
+and in different periods of history in a given country,' and goes on to 
+state that 'in the conditions prevailing in China today, the contradictions 
 among the people comprise the contradictions within the working class, 
 the contradictions within the peasantry, the contradictions within the 
 intelligentsia, the contradictions between the working class and the peasantry
@@ -79,33 +79,70 @@ intellectuals on the other, the contradictions between the working class and
 other sections of the working people on the one hand and the national bourgeoisie
 on the other, the contradictions within the national bourgeoisie, and so on.' 
 
-In Mao's analysis, 'the people' are anything but a small 'in-group' but rather
+In Mao's analysis, the people are anything but a small 'in-group' but rather
 amount to over 90% of China's population at the time. What's more, Mao's speech,
 as the title suggests, is an articulation of a method for handling contradictions
 among the people, so as to prevent the becoming antagonistic of non-antagonistic
-contradictions. As Mao points out in 'On Contradiction', 'each and every difference
-already contains contradiction and that difference itself is contradiction.' Thus, 
-in elaborating on the complex nature of objective contradictions in China in 1957
-also outlines the means for subjectively intervening into various situations to
-correctly handle these contradictions among the people. This nuanced articulation
-stands in sharp contrast to Fan's claim that Mao 'effectively painted the world 
-in black and white, banishing diversity, difference, or considerations of civil 
-liberty.' 
+contradictions. As Mao pointed out in 1937 in his speech 'On Contradiction', 
+'each and every difference already contains contradiction and that difference 
+itself is contradiction.' Thus, in elaborating on the complex nature of objective
+contradictions in China in 1957 Mao also outlines the means for subjectively 
+intervening into various situations to correctly handle these contradictions 
+among the people. This nuanced articulation stands in sharp contrast to Fan's 
+claim that Mao 'effectively painted the world in black and white, banishing 
+diversity, difference, or considerations of civil liberty.' 
 
 In, 'On the Correct Handling of Contradictions Among the People'
-Mao elaborates on the means by which it is possible to handle contradictions 
-among the people so as to avoid a bureaucratic surpression of the democratic 
-rights of the people. 'We in no way mean that coercive measures should be taken
-to settle ideological questions or questions involving the distinction between 
-right and wrong among the people. All attempts to use administrative orders or 
-coercive measures to settle ideological questions or questions of right and wrong
-are not only ineffective but harmful. We cannot abolish religion by administrative
-order or force people not to believe in it. We cannot compel people to give up 
-idealism, any more than we can force them to embrace Marxism. The only way to 
-settle questions of an ideological nature or controversial issues among the people
-is by the democratic method, the method of discussion, criticism, persuasion and 
-education, and not by the method of coercion or repression.' Against the dominate
-narrative, repeated by Fan, that the dictatorship of proletariat in China was
+Mao puts forward a method by which it is possible to handle contradictions 
+among the people so as to avoid both a bureaucratic and a repressive
+surpression of the democratic rights of the people: 'The only way to  settle
+questions of an ideological  nature or controversial issues among the people
+is by the democratic method, the method of discussion, criticism, persuasion
+and education, and not by the method of coercion or repression.' Mao's words 
+stand in sharp contrast to the the dominate anti-communist narrative, repeated
+by Fan, that the dictatorship of proletariat in China was a repressive system
+that served a small group of elites and silenced all dissent. Rather than 
+labeling a small 'in group' as 'the people' and using the repressive apparatus
+to crush any and all opposition to their interests, Mao spoke of the need 
+to understand the complexities of contradictions among the vast majority
+of people in China, and to handle these contradictions, which included
+dissenting views, with care so as to prevent the becoming antagonistic
+of non-antagonistic contradictions. As Mao puts it, 'In ordinary 
+circumstances, contradictions among the people are not antagonistic. But
+if they are not handled properly, or if we relax our vigiliance and lower
+our guard, antagonism my arise.' Concretely, this means avoiding the 'Left'
+deviation of mistaking 'certain contradictions among the people for 
+contradictions with the enemy'.
+
+Mao's speech relies on the ontological and epistemological framework that he
+laid out 20 years earlier in his speech 'On Contradiction' and 'On Practice'
+at the Anti-Japanese Military and Political College in Yenan. Much of which
+Mao puts forward therein is related to Lenin's work 'The Question of Dialectics'.
+In 'On Contradiction' Mao quotes Lenin who says, 'Antagonism and contradiction 
+are not at all one and the same. Under socialism, the first will disappear, the 
+second will remain.' As is evident, 
+
+' In human history, antagonism between classes exists as a particular manifestation of the struggle of opposites. Consider the contradiction between the exploiting and the exploited classes. Such contradictory classes coexist for a long time in the same society, be it slave society, feudal society or capitalist society, and they struggle with each other; but it is not until the contradiction between the two classes develops to a certain stage that it assumes the form of open antagonism and develops into revolution. The same holds for the transformation of peace into war in class society.
+
+Before it explodes, a bomb is a single entity in which opposites coexist in given conditions. The explosion takes place only when a new condition, ignition, is present. An analogous situation arises in all those natural phenomena which finally assume the form of open conflict to resolve old contradictions and produce new things. '
+
+During this 
+period the Chinese Communist Party had allied with the Guomindang (GMD- Chinese
+Nationalist Party) in a United Front against the Japanese imperialist 
+invasion of northern China. In these speeches Mao elaborated on the basis for
+allying with the GMD and understanding that, given the Japanese invasion, the
+GMD could be considered a tenative 'friend'. At the time Mao explained the basis 
+for this unity: 'In the present period of the anti-Japanese war, the Kuomintang 
+stands in contradiction to Japanese imperialism and wants co-operation with the 
+Communist Party, without however relaxing its struggle against the Communist Party
+and the people or its oppression of them. As for the Communist Party, it has always,
+in every period, stood with the great masses of the people against imperialism and 
+feudalism, but in the present period of the anti-Japanese war, it has adopted a 
+moderate policy towards the Kuomintang and the domestic feudal forces because the 
+Kuomintang has pressed itself in favour of resisting Japan.' Thus, through a certain 
+handling of 
+
+guomindang
 
 
 
