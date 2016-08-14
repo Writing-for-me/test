@@ -114,19 +114,36 @@ our guard, antagonism my arise.' Concretely, this means avoiding the 'Left'
 deviation of mistaking 'certain contradictions among the people for 
 contradictions with the enemy'.
 
-Mao's speech relies on the ontological and epistemological framework that he
-laid out 20 years earlier in his speeches 'On Contradiction' and 'On Practice'
-at the Anti-Japanese Military and Political College in Yenan. The concept of
-contradiction in its Marxist form was adapted from Hegelian metaphysics and
-recast in the materialist framework by Marx; Mao's works offer significant
-elaboration of these concepts and their practice relevance to political pratice.
-Contradiction, as was already quoted, is 
+Mao's speech relies on the ontological and epistemological framework that 
+he laid out 20 years earlier in his speeches 'On Contradiction' and 'On 
+Practice' at the Anti-Japanese Military and Political College in Yenan. 
+The concept of contradiction in its Marxist form was adapted from Hegelian
+metaphysics and recast in the materialist framework by Marx; Mao's works 
+offer significant elaboration of these concepts and their practice 
+relevance to political practice. In Mao’s articulation, each and every 
+difference is a contradiction, and there is no unity which is not the 
+unity of two contradictory and uneven parts: ‘Contradiction and struggle
+are universal and absolute, but the methods of resolving contradictions,
+that is, the forms of struggle, differ according to the differences in 
+the nature of the contradictions. Some contradictions are characterized
+by open antagonism, others are not.’
 
-Much of which
-Mao puts forward therein is related to Lenin's work 'The Question of Dialectics'.
-In 'On Contradiction' Mao quotes Lenin who says, 'Antagonism and contradiction 
-are not at all one and the same. Under socialism, the first will disappear, the 
-second will remain.' As is evident, 
+The question of antagonism in contradiction is a question of the relation
+between the two sides of a contradiction. If the the two aspects of the 
+contradiction can coexist, in difference, without the destruction of the
+contradiction then the contradiction is non-antagonistic. Thus when Mao
+speaks of correctly handling contradictions among the people, he is 
+outlining the means to handle non-antagonistic contradictions in a manner
+that prevents them from becoming antagonistic. In fact, in 1957 Mao goes 
+as far as to say that ‘in the concrete conditions of China, this 
+antagonistic contradiction between the two classes [the proletariat
+and the bourgeoisie], if properly handled, can be transformed into a 
+non-antagonistic one and be resolved by peaceful methods
+
+Much of which Mao puts forward therein is related to Lenin's work 
+'The Question of Dialectics'. In 'On Contradiction' Mao quotes Lenin 
+who says, 'Antagonism and contradiction are not at all one and the same.
+Under socialism, the first will disappear, the second will remain.' As is evident, 
 
 ' In human history, antagonism between classes exists as a particular manifestation of the struggle of opposites. Consider the contradiction between the exploiting and the exploited classes. Such contradictory classes coexist for a long time in the same society, be it slave society, feudal society or capitalist society, and they struggle with each other; but it is not until the contradiction between the two classes develops to a certain stage that it assumes the form of open antagonism and develops into revolution. The same holds for the transformation of peace into war in class society.
 
