@@ -115,8 +115,14 @@ deviation of mistaking 'certain contradictions among the people for
 contradictions with the enemy'.
 
 Mao's speech relies on the ontological and epistemological framework that he
-laid out 20 years earlier in his speech 'On Contradiction' and 'On Practice'
-at the Anti-Japanese Military and Political College in Yenan. Much of which
+laid out 20 years earlier in his speeches 'On Contradiction' and 'On Practice'
+at the Anti-Japanese Military and Political College in Yenan. The concept of
+contradiction in its Marxist form was adapted from Hegelian metaphysics and
+recast in the materialist framework by Marx; Mao's works offer significant
+elaboration of these concepts and their practice relevance to political pratice.
+Contradiction, as was already quoted, is 
+
+Much of which
 Mao puts forward therein is related to Lenin's work 'The Question of Dialectics'.
 In 'On Contradiction' Mao quotes Lenin who says, 'Antagonism and contradiction 
 are not at all one and the same. Under socialism, the first will disappear, the 
