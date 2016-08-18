@@ -57,7 +57,6 @@ in Trump's mouth. The lack of any concrete comparison between
 the two and what they have said is indicative of the general 
 degree of abstraction that is necessary to sustain such an equivalence.
 
-
 Through abstracting Fan can claim that Trump's 'polemical excess and
 xenophobic paranoia' (presumably followed with grotesque fascination by 
 the readers of The New Yorker) has its origin in Mao's speech 'On the
