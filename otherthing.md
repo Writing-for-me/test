@@ -14,20 +14,20 @@ away, but never explicitly written. Through the twin
 operations of abstraction and equivalence Fan works to 
 create a narrative of how Trump is no different than Mao,
 and leaves her readers to imagine the horrors that would 
-follow if Trump were to be elected. Within the discourse 
-of liberalism and its metaphysical opposition between 
+follow if Trump were to be elected. The discourse of 
+liberalism posits a metaphysical opposition between 
 (western parliamentary) democracy and totalitarianism --which
-in this article is 'China's socialist plutocracy'--the 
-ultimate measure of the evil of a ruler is the death count 
-that can be attributed to his personage. Within this framework,
-what is Hitler’s ten million person holocaust compared to the 
-thirty-eight million that Mao supposedly killed between 1958-1961
+in this article is 'China's socialist plutocracy'-- and
+holds that the ultimate measure of the evil of a ruler is the 
+death count that can be attributed to his personage. Within this 
+framework, what is Hitler’s ten million person holocaust compared to
+the thirty-eight million that Mao supposedly killed between 1958-1961
 alone!1 The lens of abstract equivalence makes it appear that, 
 even worse than another Hitler, would be another Mao. But all 
-of this is perhaps premature. For the question remains, how does
-Fan’s article, devoid of any direct references to death counts
-(perhaps because, at present, none are attributable to Trump), 
-justify the equivalence between Trump and Mao? 
+of this is perhaps premature. First it is necessary to inquire,
+how does Fan’s article, devoid of any direct references to death
+counts (perhaps because, at present, none are attributable to Trump), 
+justify the comparative equivalence between Trump and Mao? 
 
 Fan opens her article with a discussion of Mao’s ‘worldview’ 
 as he elaborates on it his 1957 speech 'On the Correct Handling 
@@ -77,21 +77,81 @@ intelligentsia, the contradictions between the working class and the peasantry
 intellectuals on the other, the contradictions between the working class and 
 other sections of the working people on the one hand and the national bourgeoisie
 on the other, the contradictions within the national bourgeoisie, and so on.' 
-
 In Mao's analysis, the people are anything but a small 'in-group' but rather
-amount to over 90% of China's population at the time. What's more, Mao's speech,
-as the title suggests, is an articulation of a method for handling contradictions
-among the people that does not involve use of the repressive apparatus. As Mao
-pointed out in 1937 in his speech 'On Contradiction', 'each and every difference
-already contains contradiction and that difference itself is contradiction.' In 
-any political situation it is necessary to have a nuanced understanding of the
-contradictory social relations that constitute the situation. Thus, in 
-elaborating on the complex nature of objective contradictions in China in 
-1957 Mao also outlines the means for subjectively intervening into various 
-situations to correctly handle these contradictions among the people via the
-methods of 'discussion and debate'. This nuanced articulation stands in sharp 
-contrast to Fan's claim that Mao 'effectively painted the world in black and 
-white, banishing diversity, difference, or considerations of civil liberty.' 
+amount to over 90% of China's population at the time. What's more, as the title
+suggests, Mao's speech is an articulation of a method for handling contradictions
+among the people that does not involve use of the repressive apparatus.
+
+Much of what Mao discusses in 'On the Correct Handling of Contradictions Among
+the People' relies on the ontological framework that he outlined in his speeches
+20 years earlier at the Anti-Japanese Military College in Yenan. As Mao pointed out
+in 1937 in his speech 'On Contradiction', 'each and every difference already 
+contains contradiction and[...]difference itself is contradiction.' The concept of
+contradiction in its Marxist form was adapted from Hegelian metaphysics and recast
+in the materialist framework by Marx; Mao's works offer significant elaboration of
+these concepts and their theoretical relevance to political practice. In Mao’s 
+articulation, each and every difference is a contradiction and every relation is
+a contradictory one. Thus, there is no unity  which is not the unity of two 
+contradictory and unevenly related elements: ‘Contradiction and struggle are universal
+and absolute, but the methods of resolving contradictions, that is, the forms of 
+struggle, differ according to the differences in the nature of the contradictions. 
+Some contradictions are characterized by open antagonism, others are not.’ Thus when 
+speaking of contradictions among the people Mao is speaking of the differences that 
+exist among them and the need to correctly handle thesecontradictions so as to prevent
+them from becoming antagonistic. 
+
+The question of antagonism in contradiction is a question of the relation
+between the two sides of a contradiction. If the the two aspects of the 
+contradiction can coexist, in difference, without the destruction of their
+contradictory unity then the contradiction is non-antagonistic. Thus when Mao
+speaks of correctly handling contradictions among the people, he is 
+outlining the means to handle non-antagonistic contradictions in a manner
+that prevents them from becoming antagonistic. Through these means the 
+process of socialism could develop, and a working through of existing
+contradictions could progress toward communism, that is, the elimination
+of the conditions of possibility of inequality and the destruction of 
+the value form.
+
+In 'On Contradiction' Mao offers an explanation of how contradictions
+between different social classes exist can develop into antagonistic
+contradictions: 'In human history, antagonism between classes exists as
+a particular manifestation of the struggle of opposites. Consider the 
+contradiction between the exploiting and the exploited classes. Such 
+contradictory classes coexist for a long time in the same society, be it
+slave society, feudal society or capitalist society, and they struggle 
+with each other; but it is not until the contradiction between the two 
+classes develops to a certain stage that it assumes the form of open 
+antagonism and develops into revolution.' In the context of revolutionary
+politics, the resolution of the antagonistic contradiction between
+proletariat (understood as a political class) and bourgeoisie (and those
+who take a politically reactive stance) is resolved either through the 
+destruction of the revolutionary political organization of the proletariat
+(and thus a continuation of the dictatorship of the bourgeoisie) or the 
+creation of the dictatorship of the proletariat. The later entails 
+replacing the organs of bourgeois state power with those of a different 
+kind and the sustaining of proletarian subjective force. 
+
+The dictatorship of the proletariat thus serves to prevent the restoration
+of bourgeois order (by internal or external enemies) as well as to spur
+the initiative of the masses to put politics (and not economics) in command
+so that existing contradictions can be resolved through political interventions
+as opposed to solely through state mechanisms. Mao is clear that among the people
+this involves discussion and principled ideological struggle against backwards 
+political ideas, but not use of the repressive apparatus. In 1957, even members
+of the national bourgeoisie are included in Mao's use of the term 'the people',
+which, against class-reductionism, speaks to the need to analyse contradictions
+in the concrete context in which they appear. As Mao puts it, 'in the concrete 
+conditions of China, this antagonistic contradiction between the two classes [the
+working class and the national bourgeoisie], if properly handled, can be transformed
+into a non-antagonistic one and be resolved by peaceful methods. However, the 
+contradiction between the working class and the national bourgeoisie will change
+into a contradiction between ourselves and the enemy if we do not handle it properly
+and do not follow the policy of uniting with, criticizing and educating the national
+bourgeoisie, or if the national bourgeoisie does not accept this policy of ours.'
+
+This nuanced analysis of the situation in China stands in sharp contrast to Fan's claim
+that Mao 'effectively painted the world in black and white, banishing diversity, difference,
+or considerations of civil liberty.' 
 
 In, 'On the Correct Handling of Contradictions Among the People'
 Mao puts forward a method by which it is possible to handle contradictions 
@@ -114,67 +174,9 @@ or if we relax our vigiliance and lower our guard, antagonism my arise.'
 Concretely, this means avoiding the 'Left' deviation of mistaking 'certain 
 contradictions among the people for contradictions with the enemy'.
 
-Mao's speech relies on the ontological and epistemological framework that 
-he laid out 20 years earlier in his speeches 'On Contradiction' and 'On 
-Practice' at the Anti-Japanese Military and Political College in Yenan. 
-The concept of contradiction in its Marxist form was adapted from Hegelian
-metaphysics and recast in the materialist framework by Marx; Mao's works 
-offer significant elaboration of these concepts and their theoretical 
-relevance to political practice. In Mao’s articulation, each and every 
-difference is a contradiction, and there is no unity which is not the 
-unity of two contradictory and uneven parts: ‘Contradiction and struggle
-are universal and absolute, but the methods of resolving contradictions,
-that is, the forms of struggle, differ according to the differences in 
-the nature of the contradictions. Some contradictions are characterized
-by open antagonism, others are not.’
+[This section needs to be put somehwere else in the paper or generally 
+reorganized]
 
-The question of antagonism in contradiction is a question of the relation
-between the two sides of a contradiction. If the the two aspects of the 
-contradiction can coexist, in difference, without the destruction of the
-contradiction then the contradiction is non-antagonistic. Thus when Mao
-speaks of correctly handling contradictions among the people, he is 
-outlining the means to handle non-antagonistic contradictions in a manner
-that prevents them from becoming antagonistic. Through these means the 
-process of socialism could develop, and a working through of existing
-contradictions could progress toward communism, that is, the elimination
-of the conditions of possibility of inequality and the destruction of 
-the value form.
-
-In 'On Contradiction' Mao offers an explanation of how contradictions
-between different social classes exist can develop into antagonistic
-contradictions: 'In human history, antagonism between classes exists as
-a particular manifestation of the struggle of opposites. Consider the 
-contradiction between the exploiting and the exploited classes. Such 
-contradictory classes coexist for a long time in the same society, be it
-slave society, feudal society or capitalist society, and they struggle 
-with each other; but it is not until the contradiction between the two 
-classes develops to a certain stage that it assumes the form of open 
-antagonism and develops into revolution.' In the context of revolutionary
-politics, the resolution of the antagonistic contradiction between
-proletariat (understood as a political class) and bourgeoisie is resolved
-either through the destruction of the revolutionary political organization
-of the proletariat (and thus a continuation of the dictatorship of the
-bourgeoisie) or the creation of the dictatorship of the proletariat. The
-later entails replacing the organs of bourgeois state power with those of
-a different kind and the sustaining of proletarian subjective force. 
-
-The dictatorship of the proletariat thus serves to prevent the restoration
-of bourgeois order (by internal or external enemies) as well as to spur
-the initiative of the masses to put politics (and not economics) in command
-so that existing contradictions can be resolved through political interventions
-as opposed to solely through state mechanisms. Mao is clear that among the people
-this involves discussion and principled ideological struggle against backwards 
-political ideas, but not use of the repressive apparatus. In 1957, even members
-of the national bourgeoisie are included in Mao's use of the term 'the people',
-which, against class-reductionism, speaks to the need to analyse contradictions
-in the concrete context in which they appear. As Mao puts it, 'in the concrete 
-conditions of China, this antagonistic contradiction between the two classes [the
-working class and the national bourgeoisie], if properly handled, can be transformed
-into a non-antagonistic one and be resolved by peaceful methods. However, the 
-contradiction between the working class and the national bourgeoisie will change
-into a contradiction between ourselves and the enemy if we do not handle it properly
-and do not follow the policy of uniting with, criticizing and educating the national
-bourgeoisie, or if the national bourgeoisie does not accept this policy of ours.'
 
 metaphor for the
 nature of antagonistic contradictions: 'Before it explodes, a bomb is
