@@ -29,6 +29,8 @@ how does Fan’s article, devoid of any direct references to death
 counts (perhaps because, at present, none are attributable to Trump), 
 justify the comparative equivalence between Trump and Mao? 
 
+### 1) Difference, Contradiction, and Dualism
+
 Fan opens her article with a discussion of Mao’s ‘worldview’ 
 as he elaborates on it his 1957 speech 'On the Correct Handling 
 of Contradictions Among the People'. In re-presenting Mao’s 
@@ -149,69 +151,42 @@ into a contradiction between ourselves and the enemy if we do not handle it prop
 and do not follow the policy of uniting with, criticizing and educating the national
 bourgeoisie, or if the national bourgeoisie does not accept this policy of ours.'
 
-This nuanced analysis of the situation in China stands in sharp contrast to Fan's claim
-that Mao 'effectively painted the world in black and white, banishing diversity, difference,
-or considerations of civil liberty.' 
+This nuanced analysis of the situation in China stands in sharp contrast to Fan's
+claim that Mao 'effectively painted the world in black and white, banishing 
+diversity, difference, or considerations of civil liberty.' Instead reductionist
+simplification of the situation in China, Mao offers a detailed analysis that
+outlines the complex social relations and a means to handle them to promote
+the unity of the people while working to resolve contradictions in a 
+non-antagonistic manner. It is worth reiterating that one of Mao's main 
+targets of criticism in this speech is those who would use the repressive
+aparatus against the people instead of the democratic method of discussion
+and debate. As Mao will put it 11 years later in a meeting with Red Guard 
+leaders and members of the Central Group of the Great Proletarian Cultural
+Revolution, '“April 14” [one of the Red Guard Factions] has a theoretician
+by the name of Chou Ch’uan-ying. Why should we arrest a theoretician? He is 
+a theoretician for a school of thought. He writes articles. Why should you
+[Nie Yuanzi, a leader of a rival faction] arrest him? Release him. He has 
+his opinion. Let him write again! Otherwise, there will be no freedom.' 
 
-In, 'On the Correct Handling of Contradictions Among the People'
-Mao puts forward a method by which it is possible to handle contradictions 
-among the people so as to avoid both a bureaucratic and a repressive
-surpression of the democratic rights of the people: 'The only way to settle
-questions of an ideological  nature or controversial issues among the people
-is by the democratic method, the method of discussion, criticism, persuasion
-and education, and not by the method of coercion or repression.' Mao's words 
-stand in sharp contrast to the the dominate anti-communist narrative, repeated
-by Fan, that the dictatorship of proletariat in China was a repressive system
-that served a small group of elites and silenced all dissent. Rather than 
-labeling a small 'in group' as 'the people' and using the repressive apparatus
-to crush any and all opposition to their interests, Mao spoke of the need 
-to understand the complexities of contradictions among the vast majority of 
-people in China, and to handle these contradictions, which included dissenting
-views, with care so as to prevent the becoming antagonistic of non-antagonistic
-contradictions. As Mao puts it, 'In ordinary circumstances, contradictions
-among the people are not antagonistic. But if they are not handled properly, 
-or if we relax our vigiliance and lower our guard, antagonism my arise.' 
-Concretely, this means avoiding the 'Left' deviation of mistaking 'certain 
-contradictions among the people for contradictions with the enemy'.
+The example of the Red Guard is one of the most important examples of how,
+despite the antagonisms that developed between various factions in Beijing,
+the correct handling of contradictions among the people was able to resolve
+the antagonistic contradiction without use of the repressive apparatus.2
+[footnote detailing this development.] Even if anatagonistic contradictions
+among the people can be handled correctly and resolved without use of the 
+repressive apparatus, the question remains, in what circumstances was it 
+necessary to employ the repressive aparatus, to exercise the 'dictatorship
+of the proletariat'? 
 
-[This section needs to be put somehwere else in the paper or generally 
-reorganized]
+### Enemies, External and Internal
 
-
-metaphor for the
-nature of antagonistic contradictions: 'Before it explodes, a bomb is
-a single entity in which opposites coexist in given conditions. The 
-explosion takes place only when a new condition, ignition, is present. 
-An analogous situation arises in all those natural phenomena which finally 
-assume the form of open conflict to resolve old contradictions and produce
-new things.'
-
-
-
-'In human history, antagonism between classes exists as a particular manifestation of the struggle of opposites. Consider the contradiction between the exploiting and the exploited classes. Such contradictory classes coexist for a long time in the same society, be it slave society, feudal society or capitalist society, and they struggle with each other; but it is not until the contradiction between the two classes develops to a certain stage that it assumes the form of open antagonism and develops into revolution. The same holds for the transformation of peace into war in class society.
-
-Before it explodes, a bomb is a single entity in which opposites coexist in given conditions. The explosion takes place only when a new condition, ignition, is present. An analogous situation arises in all those natural phenomena which finally assume the form of open conflict to resolve old contradictions and produce new things. '
-
-During this 
-period the Chinese Communist Party had allied with the Guomindang (GMD- Chinese
-Nationalist Party) in a United Front against the Japanese imperialist 
-invasion of northern China. In these speeches Mao elaborated on the basis for
-allying with the GMD and understanding that, given the Japanese invasion, the
-GMD could be considered a tenative 'friend'. At the time Mao explained the basis 
-for this unity: 'In the present period of the anti-Japanese war, the Kuomintang 
-stands in contradiction to Japanese imperialism and wants co-operation with the 
-Communist Party, without however relaxing its struggle against the Communist Party
-and the people or its oppression of them. As for the Communist Party, it has always,
-in every period, stood with the great masses of the people against imperialism and 
-feudalism, but in the present period of the anti-Japanese war, it has adopted a 
-moderate policy towards the Kuomintang and the domestic feudal forces because the 
-Kuomintang has pressed itself in favour of resisting Japan.' Thus, through a certain 
-handling of 
-
-guomindang
-
-
-
+Fan's analysis of Mao's 'worldview', as we have already argued, relies on 
+a fundamental ambiguiity, which is not an accident, but rather completely
+necessary to sustain the theoretically consistency of her comparison between
+Mao and Trump. However, under significant abstraction from concrete details
+Fan's comparison must rely on certain points of comparison, and it is precisely
+at these points that the consistency of Fan's writing falters upons symptomatic
+points of inconsistency that bely the foundational axioms of her thought. 
 
 Once this 
 foundational relation is established it follows that Trump, much 
@@ -295,6 +270,68 @@ of the U.S.’s bourgeois democracy. This conclusion is in line with fellow
 New Yorker writer Mark Singer’s warning that Trump is a ‘potential threat 
 to America’s standing as a rational guardian of the world order.’ If 
 	
+
+In, 'On the Correct Handling of Contradictions Among the People'
+Mao puts forward a method by which it is possible to handle contradictions 
+among the people so as to avoid both a bureaucratic and a repressive
+surpression of the democratic rights of the people: 'The only way to settle
+questions of an ideological  nature or controversial issues among the people
+is by the democratic method, the method of discussion, criticism, persuasion
+and education, and not by the method of coercion or repression.' Mao's words 
+stand in sharp contrast to the the dominate anti-communist narrative, repeated
+by Fan, that the dictatorship of proletariat in China was a repressive system
+that served a small group of elites and silenced all dissent. Rather than 
+labeling a small 'in group' as 'the people' and using the repressive apparatus
+to crush any and all opposition to their interests, Mao spoke of the need 
+to understand the complexities of contradictions among the vast majority of 
+people in China, and to handle these contradictions, which included dissenting
+views, with care so as to prevent the becoming antagonistic of non-antagonistic
+contradictions. As Mao puts it, 'In ordinary circumstances, contradictions
+among the people are not antagonistic. But if they are not handled properly, 
+or if we relax our vigiliance and lower our guard, antagonism my arise.' 
+Concretely, this means avoiding the 'Left' deviation of mistaking 'certain 
+contradictions among the people for contradictions with the enemy'.
+
+[This section needs to be put somehwere else in the paper or generally 
+reorganized]
+
+
+metaphor for the
+nature of antagonistic contradictions: 'Before it explodes, a bomb is
+a single entity in which opposites coexist in given conditions. The 
+explosion takes place only when a new condition, ignition, is present. 
+An analogous situation arises in all those natural phenomena which finally 
+assume the form of open conflict to resolve old contradictions and produce
+new things.'
+
+
+
+'In human history, antagonism between classes exists as a particular manifestation of the struggle of opposites. Consider the contradiction between the exploiting and the exploited classes. Such contradictory classes coexist for a long time in the same society, be it slave society, feudal society or capitalist society, and they struggle with each other; but it is not until the contradiction between the two classes develops to a certain stage that it assumes the form of open antagonism and develops into revolution. The same holds for the transformation of peace into war in class society.
+
+Before it explodes, a bomb is a single entity in which opposites coexist in given conditions. The explosion takes place only when a new condition, ignition, is present. An analogous situation arises in all those natural phenomena which finally assume the form of open conflict to resolve old contradictions and produce new things. '
+
+During this 
+period the Chinese Communist Party had allied with the Guomindang (GMD- Chinese
+Nationalist Party) in a United Front against the Japanese imperialist 
+invasion of northern China. In these speeches Mao elaborated on the basis for
+allying with the GMD and understanding that, given the Japanese invasion, the
+GMD could be considered a tenative 'friend'. At the time Mao explained the basis 
+for this unity: 'In the present period of the anti-Japanese war, the Kuomintang 
+stands in contradiction to Japanese imperialism and wants co-operation with the 
+Communist Party, without however relaxing its struggle against the Communist Party
+and the people or its oppression of them. As for the Communist Party, it has always,
+in every period, stood with the great masses of the people against imperialism and 
+feudalism, but in the present period of the anti-Japanese war, it has adopted a 
+moderate policy towards the Kuomintang and the domestic feudal forces because the 
+Kuomintang has pressed itself in favour of resisting Japan.' Thus, through a certain 
+handling of 
+
+guomindang
+
+
+
+
+
 
 [Maybe this is the place to discuss the question of reflection of contradictions] 
 The entirety of Fan’s argument rests on this point: that there is no such 
