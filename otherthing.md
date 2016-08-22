@@ -216,6 +216,13 @@ processes outside of human control, or simply due to their own  laziness, but
 she is clear that any attempt attribute it to the bourgeoisie (a term 
 symptomatically absent from her writing) is just demagoguery.
 
+At the degree of abstraction necessary to sustain Fan's comparison, the 
+question of the nature of 'the enemy' in the thought of Mao and Trump cannot
+be posed. Any concrete comparison of the category of 'the enemy' in Mao and 
+Trump's respective discourses would show the essential differences between 
+the two and thus collapse the basis for comparison. But abstraction equivalence
+is only one pillar of Fan's (go on to axiom that there are no enemies)
+
 Fan assumes that politicians harness people’s frustration with 
 conditions such as poverty for their own personal ends. These 
 frustrations are instrumentalized on the part of politicians, 
