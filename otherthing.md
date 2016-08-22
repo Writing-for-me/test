@@ -186,20 +186,35 @@ necessary to sustain the theoretically consistency of her comparison between
 Mao and Trump. However, under significant abstraction from concrete details
 Fan's comparison must rely on certain points of comparison, and it is precisely
 at these points that the consistency of Fan's writing falters upons symptomatic
-points of inconsistency that bely the foundational axioms of her thought. 
+points of inconsistency that bely the foundational axioms of her thought. A 
+thorough examination of these axioms reveals them to be metaphysical in nature
+positing an external causes as the basis for change, principal among them the 
+undivided unity of consciousness.
 
-Once this 
-foundational relation is established it follows that Trump, much 
-like Mao, is just tricking ‘beleagured blue-collar’ people into 
-supporting him through the creation of a make-believe enemy. As 
-Fan puts it, Trump ‘masterfully channelled [the economic distress
-of the workers] toward the creation of loathsome villains, the enemy.’
-Thus understood, the workers have no real enemies. Fan, does not 
-specify whether their economic distress is the result of objective
-processes outside of human control, or simply due to their own 
-laziness, but she is clear that any attempt attribute it to the 
-bourgeoisie (a term symptomatically absent from her writing) is 
-just demagogy.
+A pillar of Fan's argument for the abstract equivalence between Trump and Mao
+is the distinction between friend and enemy which Fan identifies in both of
+their thought. This is paired an empiricial observation of Trump's popularity
+in contemporary China, which implicitly supports Fan's thesis, which is deployed
+in a complex rhetorical argument: 'in China the appeal of ChuanPu, the Chinese
+rendering of Trump’s name, is readily apparent. From the start, Trump’s campaign
+relied on a core constituency of beleaguered blue-collar voters—“the people,” Mao 
+would have surely termed them—whose economic distress he masterfully channelled
+toward the creation of loathsome villains, the enemy. The ease with which Trump
+erected and proselytized this divide speaks to what the Chairman would have 
+labelled a ripeness for “class struggle.”'
+
+The implication is that, for people in China, the popularity of Trump in the U.S.
+is easily explained through common sense; their past experience with Maoism 
+showed them how poor and working class people can be tricked (by a charismatic
+and bombastic leader) into believing that their socio-economic difficulties are 
+caused by some 'enemy'. Fan is clear that this enemy is just a boogey-man 
+invented by a leader to help them channel the frustrations of those who are less
+well off, in order to serve their own personal gain. Underlying this line of 
+reasoning is the assumption that impoverished people have no real enemies.
+Fan, specify whether their economic distress is the result of objective
+processes outside of human control, or simply due to their own  laziness, but 
+she is clear that any attempt attribute it to the bourgeoisie (a term 
+symptomatically absent from her writing) is just demagoguery.
 
 Fan assumes that politicians harness people’s frustration with 
 conditions such as poverty for their own personal ends. These 
