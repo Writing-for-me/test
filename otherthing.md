@@ -187,21 +187,21 @@ Mao and Trump. However, under significant abstraction from concrete details
 Fan's comparison must rely on certain points of comparison, and it is precisely
 at these points that the consistency of Fan's writing falters upons symptomatic
 points of inconsistency that bely the foundational axioms of her thought. A 
-thorough examination of these axioms reveals them to be metaphysical in nature
-positing an external causes as the basis for change, principal among them the 
+thorough examination of these axioms reveals them to be metaphysical in nature,
+positing external causes as the basis for change, principal among them the 
 undivided unity of consciousness.
 
 A pillar of Fan's argument for the abstract equivalence between Trump and Mao
-is the distinction between friend and enemy which Fan identifies in both of
-their thought. This is paired an empiricial observation of Trump's popularity
-in contemporary China, which implicitly supports Fan's thesis, which is deployed
-in a complex rhetorical argument: 'in China the appeal of ChuanPu, the Chinese
-rendering of Trump’s name, is readily apparent. From the start, Trump’s campaign
-relied on a core constituency of beleaguered blue-collar voters—“the people,” Mao 
-would have surely termed them—whose economic distress he masterfully channelled
-toward the creation of loathsome villains, the enemy. The ease with which Trump
-erected and proselytized this divide speaks to what the Chairman would have 
-labelled a ripeness for “class struggle.”'
+is the articulation of distinction between friend and enemy which Fan identifies
+in both of their thought. This is paired an empiricial observation of Trump's 
+popularity in contemporary China, which implicitly supports Fan's thesis, which 
+is deployed in a complex rhetorical argument: 'in China the appeal of ChuanPu, 
+the Chinese rendering of Trump’s name, is readily apparent. From the start, 
+Trump’s campaign relied on a core constituency of beleaguered blue-collar voters
+—“the people,” Mao would have surely termed them—whose economic distress he 
+masterfully channelled toward the creation of loathsome villains, the enemy.
+The ease with which Trump erected and proselytized this divide speaks to what 
+the Chairman would have labelled a ripeness for “class struggle.”'
 
 The implication is that, for people in China, the popularity of Trump in the U.S.
 is easily explained through common sense; their past experience with Maoism 
@@ -209,19 +209,62 @@ showed them how poor and working class people can be tricked (by a charismatic
 and bombastic leader) into believing that their socio-economic difficulties are 
 caused by some 'enemy'. Fan is clear that this enemy is just a boogey-man 
 invented by a leader to help them channel the frustrations of those who are less
-well off, in order to serve their own personal gain. Underlying this line of 
-reasoning is the assumption that impoverished people have no real enemies.
-Fan, specify whether their economic distress is the result of objective
-processes outside of human control, or simply due to their own  laziness, but 
-she is clear that any attempt attribute it to the bourgeoisie (a term 
-symptomatically absent from her writing) is just demagoguery.
+well off, in order to serve their own personal gain. She is clear that it was
+Trump himself who 'erected and proselytied this divide' between friend and enemy
+who are just 'the creation' of Trump. Underlying this line of reasoning is the 
+assumption that impoverished people have no real enemies. Fan fails to specify 
+whether their economic distress is the result of objective processes outside of
+human control, or simply due to their own  laziness, but she is clear that any
+attempt attribute it to any enemy whether it be the bourgeoisie (a term 
+symptomatically absent from her writing) or illegal immigrants is just 
+demagoguery.
 
 At the degree of abstraction necessary to sustain Fan's comparison, the 
 question of the nature of 'the enemy' in the thought of Mao and Trump cannot
 be posed. Any concrete comparison of the category of 'the enemy' in Mao and 
 Trump's respective discourses would show the essential differences between 
-the two and thus collapse the basis for comparison. But abstraction equivalence
-is only one pillar of Fan's (go on to axiom that there are no enemies)
+the two and thus collapse the basis for comparison. This abstract equivalence
+is supported by Fan's assumption that there are no real enemies within a 
+democracy (except perhaps Trump and those who support his 'totalitarian' 
+campaign). However, this presents Fan with the problem of explaining the
+reason for the existence of antagonistic contradictions among the people.
+Her answer, as we have already seen, is that these contradictions are parlor
+tricks on the part of a ruling elite to further their own interests. Her 
+assumption is that the contradictions in society are reflections of the
+power-struggles of various individuals. In this framework the elite rule
+and social struggles follow the struggle of the elite. In Fan's view
+the majority of people cannot grasp this or other abstract concepts and
+thus are suseptible to being conned by someone like Trump. She is quite 
+clear about this, in a statement that once again posits an equivalence
+between China and the U.S.: 'Abstract principles, which Hillary Clinton 
+has been known to proclaim in China—of human rights and women’s rights—seem
+less relevant than the practical economic challenges facing the average 
+citizen.'
+
+This sort of disdain for the average person is dressed up in the aesthetics
+of intellectualism, but is actually a direct consequence of Fan's assumption
+that the conflicts in society are reflections of the power-struggles of the
+elites. If the elites rule and people follow, then politics are simply a
+matter of having a kind a just ruler who will support principles such as
+'human rights and women's rights' in the form of proclamations that the 
+average person can then follow. This worldview stands in sharp contrast to
+that of Mao, who called upon party cadre to go live amongst the masses
+and to concentrate the correct ideas of these masses to carry forward the 
+revolution in China. Mao repeatedly struggle against the view of those
+like Fan who believed that it is the elite (and not the masses) make
+history. In 1968 when meeting with the Central Group for the Cultural
+Revolution met with the leaders of various Red Guard factions, Mao said,
+'People are saying the “social struggle is a reflection of the struggle
+within the Party Central Committee.” It is not that social struggle is a
+reflection of the Party Central Committee. Rather, the struggle within the
+party Central Committee is a reflection of social struggle.'
+
+[go on to question of enemies]
+
+In order to sustain this thesis
+Fan has to posit the existence of an undivided unity of consciousness
+
+(go on to axiom that there are no enemies)
 
 Fan assumes that politicians harness people’s frustration with 
 conditions such as poverty for their own personal ends. These 
