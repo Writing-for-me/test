@@ -82,35 +82,34 @@ on the other, the contradictions within the national bourgeoisie, and so on.'
 In Mao's analysis, the people are anything but a small 'in-group' but rather
 amount to over 90% of China's population at the time. What's more, as the title
 suggests, Mao's speech is an articulation of a method for handling contradictions
-among the people that does not involve use of the repressive apparatus.
+among the people that does not involve use of the repressive apparatus (i.e. the
+police, the army, etc.).
 
 Much of what Mao discusses in 'On the Correct Handling of Contradictions Among
 the People' relies on the ontological framework that he outlined in his speeches
 20 years earlier at the Anti-Japanese Military College in Yenan. As Mao pointed out
 in 1937 in his speech 'On Contradiction', 'each and every difference already 
-contains contradiction and[...]difference itself is contradiction.' The concept of
-contradiction in its Marxist form was adapted from Hegelian metaphysics and recast
-in the materialist framework by Marx; Mao's works offer significant elaboration of
-these concepts and their theoretical relevance to political practice. In Mao’s 
+contains contradiction and[...]difference itself is contradiction.' Marx adapted the 
+concept of contradiction from Hegelian metaphysics, recasting it in a materialist 
+framework; Mao's works offer significant elaboration of
+this concept and its theoretical relevance to political practice. In Mao’s 
 articulation, each and every difference is a contradiction and every relation is
-a contradictory one. Thus, there is no unity  which is not the unity of two 
+contradictory. Thus, there is no unity  which is not the unity of two 
 contradictory and unevenly related elements: ‘Contradiction and struggle are universal
 and absolute, but the methods of resolving contradictions, that is, the forms of 
 struggle, differ according to the differences in the nature of the contradictions. 
-Some contradictions are characterized by open antagonism, others are not.’ Thus when 
-speaking of contradictions among the people Mao is speaking of the differences that 
-exist among the people and the need to correctly handle these contradictions so as to 
-prevent them from becoming antagonistic. 
+Some contradictions are characterized by open antagonism, others are not.’
 
-The question of antagonism in contradiction is a question of the relation
+The question of the place of antagonism in contradiction is a question of the relation
 between the two sides of a contradiction. If the the two aspects of the 
 contradiction can coexist, in difference, without the destruction of their
 contradictory relation then the contradiction is non-antagonistic. Thus when Mao
 speaks of correctly handling contradictions among the people, he is 
 outlining the means to handle non-antagonistic contradictions in a manner
-that prevents them from becoming antagonistic. Through these means the 
-process of socialism could develop as a working through of existing
-contradictions that progresses towards communism, that is, the elimination
+that prevents them from becoming antagonistic. This method of handling contradictions
+is necessary for resolving contradictions among the people. Without correctly
+differentiating between antagonistic and non-antagonistic contradictions there
+is no possibility of progressing towards communism, that is, the elimination
 of the conditions of possibility of inequality and the destruction of 
 the value form.
 
@@ -135,7 +134,7 @@ kind and the sustaining of proletarian subjective force.
 
 The dictatorship of the proletariat thus serves to prevent the restoration
 of bourgeois order (by internal or external enemies) as well as to spur
-the initiative of the masses to put politics (and not economics) in command
+the initiative of the people to put politics (and not economics) in command
 so that existing contradictions can be resolved through political interventions
 (and not mediated through statist mechanisms of social control). 
 Mao is clear that among the people
@@ -160,11 +159,11 @@ This nuanced analysis of the situation in China stands in sharp contrast to Fan'
 claim that Mao 'effectively painted the world in black and white, banishing 
 diversity, difference, or considerations of civil liberty.' Instead of a reductionist
 simplification of the situation in China, Mao offers a detailed analysis that
-outlines the complex structure of social relations in China at the time and, based
-on this, a means to handle them to promote the proletarian political unity of the 
+outlines the complex structure of social relations in China at the time. Based
+on this analysis, he provides a means to promote the proletarian political unity of the 
 people while working to resolve contradictions in a non-antagonistic manner. In addition,
-in 'On the Correct Handling of Contradictions Among the People' Mao is also 
-criticizing those who would use the repressive aparatus against the people instead of 
+in 'On the Correct Handling of Contradictions Among the People' Mao is
+criticizing those who would use the repressive apparatus against the people instead of 
 the democratic method of discussion and debate. 11 years later in a meeting with Red Guard 
 leaders and members of the Central Group of the Great Proletarian Cultural
 Revolution Mao reiterates this point, '“April 14” [one of the Red Guard Factions] has a 
@@ -180,26 +179,25 @@ the antagonistic contradiction without use of the repressive apparatus.2
 [footnote detailing this development or do I include it in the body?] Even 
 if anatagonistic contradictions among the people can be handled correctly 
 and resolved without use of the repressive apparatus, the question remains,
-in what circumstances was it necessary to employ the repressive aparatus, 
+in what circumstances is it necessary to employ the repressive aparatus, 
 to exercise the 'dictatorship of the proletariat'? 
 
 ### Enemies, External and Internal
 
 Fan's analysis of Mao's 'worldview', as we have already argued, relies on 
-a fundamental ambiguiity, which is not an accident, but rather completely
+a fundamental ambiguity, which is not an accident, but rather completely
 necessary to sustain the theoretically consistency of her comparison between
-Mao and Trump. However, under significant abstraction from concrete details
-Fan's comparison must rely on certain points of comparison, and it is precisely
-at these points that the consistency of Fan's writing falters upons symptomatic
+Mao and Trump. Despite significant abstraction from concrete details
+Fan must rely on certain points of comparison, and it is precisely
+at these points that her argument falters upons symptomatic
 points of inconsistency that bely the foundational axioms of her thought. A 
 thorough examination of these axioms reveals them to be metaphysical in nature,
 positing external causes as the basis for change, principal among them the 
 supposedly undivided unity of consciousness.
 
-A pillar of Fan's argument for the abstract equivalence between Trump and Mao
-is the articulation of distinction between friend and enemy which Fan identifies
+One such point of comparison between Trump and Mao is the distinction between friend and enemy which Fan identifies
 in both of their thought. This is paired an empiricial observation of Trump's 
-popularity in contemporary China, which implicitly supports Fan's thesis, which 
+popularity in contemporary China, which implicitly supports Fan's thesis, and 
 is deployed in a complex rhetorical argument: 'in China the appeal of ChuanPu, 
 the Chinese rendering of Trump’s name, is readily apparent. From the start, 
 Trump’s campaign relied on a core constituency of beleaguered blue-collar 
@@ -209,50 +207,50 @@ The ease with which Trump erected and proselytized this divide speaks to what
 the Chairman would have labelled a ripeness for “class struggle.”'
 
 The implication is that, for people in China, the popularity of Trump in the U.S.
-is easily explained through common sense; their past experience with Maoism 
+is explained by common sense; their past experience with Maoism 
 showed them how poor and working class people can be tricked (by a charismatic
 and bombastic leader) into believing that their socio-economic difficulties are 
-caused by some 'enemy'. Fan is clear that this enemy is just a boogey-man 
-invented by a leader to help them channel the frustrations of those who are less
-well off, in order to serve their own personal gain. She is clear that it was
-Trump himself who 'erected and proselytied this divide' between friend and enemy
-who are just 'the creation' of Trump. Underlying this line of reasoning is the 
-assumption that impoverished people have no real enemies. Fan fails to specify 
-whether their economic distress is the result of objective processes outside of
-human control, or simply due to their own  laziness, but she is clear that any
-attempt attribute it to any enemy whether it be the bourgeoisie (a term 
-symptomatically absent from her writing) or illegal immigrants is just 
-demagoguery.
+caused by some 'enemy'. Fan's view is that all 'enemies' are just boogey-men 
+invented by the elite to serve their own interests and channel the frustrations 
+of those who are less well off. She is clear that it was
+Trump himself who 'erected and proselytized this divide' between friend and enemy. 
+Fan fails to specify whether the economic distress of the working class
+is the result of objective processes outside of human control, or simply due to 
+their own laziness, but she is clear that any attempt attribute it to any enemy 
+whether it be the bourgeoisie (a term symptomatically absent from her writing)
+or illegal immigrants is just demagoguery.
 
 At the degree of abstraction necessary to sustain Fan's comparison, the 
 question of the nature of 'the enemy' in the thought of Mao and Trump cannot
 be posed. Any concrete comparison of the category of 'the enemy' in Mao and 
 Trump's respective discourses would show the essential differences between 
-the two and thus collapse the basis for comparison. This abstract equivalence
-is supported by Fan's assumption that there are no real enemies within a 
-democracy (except perhaps Trump and those who support his 'totalitarian' 
-campaign). However, this presents Fan with the problem of explaining the
-reason for the existence of antagonistic contradictions among the people.
-Her answer, as we have already seen, is that these contradictions are parlor
-tricks on the part of a ruling elite to further their own interests. Her 
-assumption is that the contradictions in society are reflections of the
-power-struggles of various individuals. In this framework the elite rule
-and social struggles follow the struggle of the elite. In Fan's view
-the majority of people cannot grasp this or other abstract concepts and
+the two and thus erode the basis for comparison. Instead, Fan must remain at
+the level ofabstract equivalence, which is supported by her assumption that,
+with a (bourgeois) democracy, there are no real enemies (except perhaps Trump 
+and those who support his 'totalitarian' campaign). This, however, presents
+Fan with the problem of explaining the reason for the existence of antagonistic
+contradictions within society. Her answer to this problem is that these 
+contradictions are parlor tricks on the part of a ruling elite to further their
+own interests. She thus assumes that the contradictions in society are reflections
+of the power-struggles of various individuals. In this metaphysical worldview the
+elite rule and social struggles follow the power struggles of the elite. 
+
+In Fan's view the majority of people cannot grasp this or other abstract concepts and
 thus are suseptible to being conned by someone like Trump. She is quite 
-clear about this, in a statement that once again posits an equivalence
-between China and the U.S.: 'Abstract principles, which Hillary Clinton 
+clear about this, 'Abstract principles, which Hillary Clinton 
 has been known to proclaim in China—of human rights and women’s rights—seem
 less relevant than the practical economic challenges facing the average 
-citizen.'
+citizen.' 
 
 This sort of disdain for the average person is dressed up in the aesthetics
 of intellectualism, but is actually a direct consequence of Fan's assumption
 that the conflicts in society are reflections of the power-struggles of the
-elites. If the elites rule and people follow, then politics are simply a
-matter of having a kind a just ruler who will support principles such as
-'human rights and women's rights' in the form of proclamations that the 
-average person can then follow. This worldview stands in sharp contrast to
+ruling elite. If the contradictions in society are caused
+by the contradictions in the minds of the elite, then the best type of government
+is one in which there is a just ruler who supports principles such as
+'human rights and women's rights'. 
+
+This worldview stands in sharp contrast to
 that of Mao, who called upon party cadre to go live amongst the masses
 and to concentrate the correct ideas of these masses to carry forward the 
 revolution in China. Mao repeatedly struggle against the view of those
