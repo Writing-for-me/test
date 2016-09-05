@@ -38,15 +38,15 @@ position Fan states that the former ‘drew a distinction between
 “the people” and “the enemy.” The people were effectively the 
 in-group, while the enemy was nothing but a collection of 
 demons and thugs to be vigilantly resisted.’  In Fan’s view such
-a distinction between the people and the enemy is part of ‘the us
--versus-them dichotomy,’ which is, ‘a cornerstone of Maoism’ and 
+a distinction between the people and the enemy is part of ‘the us-versus-them 
+dichotomy,’ which was, ‘a cornerstone of Maoism’ and 
 ‘effectively painted the world in black and white, banishing 
 diversity, difference, or considerations of civil liberty.’ 
 
 The crux of Fan’s argument hinges on this reductive re-presentation
 of Mao’s theory of contradictions (in this case between the people
-and the enemy) to a static dualism of ‘us vs. them’. According to 
-her such a reduction of the complexity of the world is also present
+and the enemy) to a static dualism of ‘us-versus-them’. According to 
+her, such a reduction of the complexity of the world is also present
 in Trump’s campaign for presidency. In fact, this similarity 
 functions as Fan’s basis for the comparison of Trump and Mao. As she puts it
 'that worldview [of Maoism] has found curious potency sixty-odd 
@@ -56,7 +56,7 @@ polemical excess and xenophobic paranoia.' Thus without doing more
 than referencing the title of a speech by Mao and without quoting Trump, Fan
 makes the claim that Mao's worldview has 'found curious potency'
 in Trump's mouth. The lack of any concrete comparison between
-the two and what they have said is indicative of the general 
+what the two have said is indicative of the general 
 degree of abstraction that is necessary to sustain such an equivalence.
 
 Through abstracting Fan can claim that Trump's 'polemical excess and
@@ -68,7 +68,7 @@ excess' which supports Fan's claim that 'the people were effectively
 the in-group, while the enemy was nothing but a collection of demons 
 and thugs to be vigilantly resisted.' Yet, if one actually investigates
 it becomes clear that Fan has taken great liberties in her re-presentation
-of Mao's speech, and his worldview in general. For example, Mao articulates
+of Mao's speech, and his 'worldview' in general. For example, Mao articulates
 that 'the concept of "the people" varies in content in different countries 
 and in different periods of history in a given country,' and goes on to 
 state that 'in the conditions prevailing in China today, the contradictions 
@@ -99,23 +99,23 @@ and absolute, but the methods of resolving contradictions, that is, the forms of
 struggle, differ according to the differences in the nature of the contradictions. 
 Some contradictions are characterized by open antagonism, others are not.’ Thus when 
 speaking of contradictions among the people Mao is speaking of the differences that 
-exist among them and the need to correctly handle thesecontradictions so as to prevent
-them from becoming antagonistic. 
+exist among the people and the need to correctly handle these contradictions so as to 
+prevent them from becoming antagonistic. 
 
 The question of antagonism in contradiction is a question of the relation
 between the two sides of a contradiction. If the the two aspects of the 
 contradiction can coexist, in difference, without the destruction of their
-contradictory unity then the contradiction is non-antagonistic. Thus when Mao
+contradictory relation then the contradiction is non-antagonistic. Thus when Mao
 speaks of correctly handling contradictions among the people, he is 
 outlining the means to handle non-antagonistic contradictions in a manner
 that prevents them from becoming antagonistic. Through these means the 
-process of socialism could develop, and a working through of existing
-contradictions could progress toward communism, that is, the elimination
+process of socialism could develop as a working through of existing
+contradictions that progresses towards communism, that is, the elimination
 of the conditions of possibility of inequality and the destruction of 
 the value form.
 
 In 'On Contradiction' Mao offers an explanation of how contradictions
-between different social classes exist can develop into antagonistic
+between different social classes can develop into antagonistic
 contradictions: 'In human history, antagonism between classes exists as
 a particular manifestation of the struggle of opposites. Consider the 
 contradiction between the exploiting and the exploited classes. Such 
@@ -137,12 +137,13 @@ The dictatorship of the proletariat thus serves to prevent the restoration
 of bourgeois order (by internal or external enemies) as well as to spur
 the initiative of the masses to put politics (and not economics) in command
 so that existing contradictions can be resolved through political interventions
-as opposed to solely through state mechanisms. Mao is clear that among the people
+(and not mediated through statist mechanisms of social control). 
+Mao is clear that among the people
 this involves discussion and principled ideological struggle against backwards 
-political ideas, but not use of the repressive apparatus. In 1957, even members
+political ideas, and not the use of the repressive apparatus. In 1957, even members
 of the national bourgeoisie are included in Mao's use of the term 'the people',
 which, against class-reductionism, speaks to the need to analyse contradictions
-in the concrete context in which they appear. As Mao puts it, 'in the concrete 
+in the concrete context in which they exist. As Mao puts it, 'in the concrete 
 conditions of China, this antagonistic contradiction between the two classes [the
 working class and the national bourgeoisie], if properly handled, can be transformed
 into a non-antagonistic one and be resolved by peaceful methods. However, the 
@@ -150,33 +151,37 @@ contradiction between the working class and the national bourgeoisie will change
 into a contradiction between ourselves and the enemy if we do not handle it properly
 and do not follow the policy of uniting with, criticizing and educating the national
 bourgeoisie, or if the national bourgeoisie does not accept this policy of ours.'
+Thus Mao also outlines the primacy of class stand (the subjective) over social class
+(the objective) in politics. Under the dictatorship of the proletariat, even the
+national bourgeoisie is capable of taking a proletarian class stand and playing
+a positive role in the socialist revolution.
 
 This nuanced analysis of the situation in China stands in sharp contrast to Fan's
 claim that Mao 'effectively painted the world in black and white, banishing 
-diversity, difference, or considerations of civil liberty.' Instead reductionist
+diversity, difference, or considerations of civil liberty.' Instead of a reductionist
 simplification of the situation in China, Mao offers a detailed analysis that
-outlines the complex social relations and a means to handle them to promote
-the unity of the people while working to resolve contradictions in a 
-non-antagonistic manner. It is worth reiterating that one of Mao's main 
-targets of criticism in this speech is those who would use the repressive
-aparatus against the people instead of the democratic method of discussion
-and debate. As Mao will put it 11 years later in a meeting with Red Guard 
+outlines the complex structure of social relations in China at the time and, based
+on this, a means to handle them to promote the proletarian political unity of the 
+people while working to resolve contradictions in a non-antagonistic manner. In addition,
+in 'On the Correct Handling of Contradictions Among the People' Mao is also 
+criticizing those who would use the repressive aparatus against the people instead of 
+the democratic method of discussion and debate. 11 years later in a meeting with Red Guard 
 leaders and members of the Central Group of the Great Proletarian Cultural
-Revolution, '“April 14” [one of the Red Guard Factions] has a theoretician
-by the name of Chou Ch’uan-ying. Why should we arrest a theoretician? He is 
+Revolution Mao reiterates this point, '“April 14” [one of the Red Guard Factions] has a 
+theoretician by the name of Chou Ch’uan-ying. Why should we arrest a theoretician? He is 
 a theoretician for a school of thought. He writes articles. Why should you
-[Nie Yuanzi, a leader of a rival faction] arrest him? Release him. He has 
+[Nie Yuanzi, a leader of a rival Red Guard faction] arrest him? Release him. He has 
 his opinion. Let him write again! Otherwise, there will be no freedom.' 
 
-The example of the Red Guard is one of the most important examples of how,
+The example of the Red Guards is one of the most important examples of how,
 despite the antagonisms that developed between various factions in Beijing,
 the correct handling of contradictions among the people was able to resolve
 the antagonistic contradiction without use of the repressive apparatus.2
-[footnote detailing this development.] Even if anatagonistic contradictions
-among the people can be handled correctly and resolved without use of the 
-repressive apparatus, the question remains, in what circumstances was it 
-necessary to employ the repressive aparatus, to exercise the 'dictatorship
-of the proletariat'? 
+[footnote detailing this development or do I include it in the body?] Even 
+if anatagonistic contradictions among the people can be handled correctly 
+and resolved without use of the repressive apparatus, the question remains,
+in what circumstances was it necessary to employ the repressive aparatus, 
+to exercise the 'dictatorship of the proletariat'? 
 
 ### Enemies, External and Internal
 
@@ -189,7 +194,7 @@ at these points that the consistency of Fan's writing falters upons symptomatic
 points of inconsistency that bely the foundational axioms of her thought. A 
 thorough examination of these axioms reveals them to be metaphysical in nature,
 positing external causes as the basis for change, principal among them the 
-undivided unity of consciousness.
+supposedly undivided unity of consciousness.
 
 A pillar of Fan's argument for the abstract equivalence between Trump and Mao
 is the articulation of distinction between friend and enemy which Fan identifies
@@ -197,9 +202,9 @@ in both of their thought. This is paired an empiricial observation of Trump's
 popularity in contemporary China, which implicitly supports Fan's thesis, which 
 is deployed in a complex rhetorical argument: 'in China the appeal of ChuanPu, 
 the Chinese rendering of Trump’s name, is readily apparent. From the start, 
-Trump’s campaign relied on a core constituency of beleaguered blue-collar voters
-—“the people,” Mao would have surely termed them—whose economic distress he 
-masterfully channelled toward the creation of loathsome villains, the enemy.
+Trump’s campaign relied on a core constituency of beleaguered blue-collar 
+voters—“the people,” Mao would have surely termed them—whose economic distress 
+he masterfully channelled toward the creation of loathsome villains, the enemy.
 The ease with which Trump erected and proselytized this divide speaks to what 
 the Chairman would have labelled a ripeness for “class struggle.”'
 
