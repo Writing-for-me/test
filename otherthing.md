@@ -213,27 +213,38 @@ and bombastic leader) into believing that their socio-economic difficulties are
 caused by some 'enemy'. Fan's view is that all 'enemies' are just boogey-men 
 invented by the elite to serve their own interests and channel the frustrations 
 of those who are less well off. She is clear that it was
-Trump himself who 'erected and proselytized this divide' between friend and enemy. 
+Trump himself who 'erected and proselytized this divide' between friend and enemy.
 Fan fails to specify whether the economic distress of the working class
 is the result of objective processes outside of human control, or simply due to 
 their own laziness, but she is clear that any attempt attribute it to any enemy 
 whether it be the bourgeoisie (a term symptomatically absent from her writing)
 or illegal immigrants is just demagoguery.
 
+This sort of manipulation of working class people is only possible because of
+the how 'masterfully' Trump was able to erect the fetish of the enemy which
+has come to stand in for all of the problems that the working class face under
+contemporary capitalism. What is at stake in this claim is the nature of mastery.
+If an enemy of the working class does not exist, then any discussion of this enemy
+is the creation of a figure of mastery. In Fan's ideology of bourgeois individualism
+mastery is embodied in the individual who manipulates (less educated) others for 
+his/her own personal gain. 
+
 At the degree of abstraction necessary to sustain Fan's comparison, the 
 question of the nature of 'the enemy' in the thought of Mao and Trump cannot
 be posed. Any concrete comparison of the category of 'the enemy' in Mao and 
 Trump's respective discourses would show the essential differences between 
 the two and thus erode the basis for comparison. Instead, Fan must remain at
-the level ofabstract equivalence, which is supported by her assumption that,
+the level of abstract equivalence, which is supported by her assumption that,
 with a (bourgeois) democracy, there are no real enemies (except perhaps Trump 
 and those who support his 'totalitarian' campaign). This, however, presents
 Fan with the problem of explaining the reason for the existence of antagonistic
-contradictions within society. Her answer to this problem is that these 
+contradictions within society. Her answer is that these 
 contradictions are parlor tricks on the part of a ruling elite to further their
 own interests. She thus assumes that the contradictions in society are reflections
 of the power-struggles of various individuals. In this metaphysical worldview the
-elite rule and social struggles follow the power struggles of the elite. 
+elite (masters) rule and social struggles follow the power struggles of the elite. 
+In light of these assumptions, the best sort of politics are those that establish
+rules that limit the power of the powerful.
 
 In Fan's view the majority of people cannot grasp this or other abstract concepts and
 thus are suseptible to being conned by someone like Trump. She is quite 
@@ -248,7 +259,9 @@ that the conflicts in society are reflections of the power-struggles of the
 ruling elite. If the contradictions in society are caused
 by the contradictions in the minds of the elite, then the best type of government
 is one in which there is a just ruler who supports principles such as
-'human rights and women's rights'. 
+'human rights and women's rights'. Thus the care of the meak and helpless
+is the charge of the benevolent ruler and those enlightened intellectuals
+who support her/him.
 
 This worldview stands in sharp contrast to
 that of Mao, who called upon party cadre to go live amongst the masses
@@ -260,7 +273,46 @@ Revolution met with the leaders of various Red Guard factions, Mao said,
 'People are saying the “social struggle is a reflection of the struggle
 within the Party Central Committee.” It is not that social struggle is a
 reflection of the Party Central Committee. Rather, the struggle within the
-party Central Committee is a reflection of social struggle.'
+party Central Committee is a reflection of social struggle.' Mao's thought
+thus stands in stark contrast to Fan's bourgeois idealism and the assumption
+that it is individual power struggles that determine social relations. 
+
+Mao's views also stand in contrast to the economic determinism of those like
+Stalin and Trotsky who posited that the telos of History was the driving 
+force of proletarian politics. In contrast to this metaphysical view of
+the necessity of History as the external motive force of politics, Mao
+repeatedly emphasized that it is the masses that make history (and not 
+History that makes the masses). Understanding the primacy of internal
+contradictions amongst the masses a the basis for change is the crux
+of the dialectical materialist world outlook that Mao puts forward and 
+develops under the name Marxism-Leninism. In contrast to Fan's 
+representation of Maoism, Mao was not a figure of mastery, working to
+manipulate the masses to serve his own self interest. Nor did he claim 
+to have the answers, or even act as a 'teacher' of the people. 
+
+However, it should be noted that there were many on among the ultra-'left' 
+who wanted to claim that Mao had the 'correct ideas' and the answers to
+resolve the social conflicts in China. These ranged from Yang Xiguang (in 1968
+was the 18 year old leader of Shengwulien an ultra-'left' mass organization
+of over a million people in Hunan province that referred to Mao as the 'the 
+great supreme commander of the proletariat' and called for the complete 
+overthrow of the CCP) who, after the Cultural Revolution became a professor
+of neo-classical economics, to Lin Biao a member of the Cutural Revolution
+Small Group who claimed that Mao's sentences were worth 10,000 times as much
+as those of a normal person, only to latter plot against Mao and die in his
+attempt to flee to revisionist Soviet Union. After his death Lin, became the
+target of the political campaign to 'Criticize Lin, Criticize Confuscious' 
+(批林批孔运动) because his insistence on the absolute correctness of Mao's
+words was a form of metaphysical dogmatism akin to Confuscious' insistence
+on the divine correctness of the Chinese Emporer.
+
+More then all of this, the aforementioned discussion with the Red Guard leaders
+in 1968 is indicative of Mao's opposition to the portrayal of him as a master
+or teacher with 'the answers'. Chen Boda, another member of the Cultural 
+Revolution Small Group, instructed the Red Guard leaders to 'follow the 
+Chairman’s teaching closely; resolutely carry it out.' To which Mao responded
+'Don’t talk about teachings.' Because political situations are not about 
+following teachings or instructions.
 
 [go on to question of enemies]
 
