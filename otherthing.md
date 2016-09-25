@@ -288,12 +288,13 @@ of the dialectical materialist world outlook that Mao puts forward and
 develops under the name Marxism-Leninism. In contrast to Fan's 
 representation of Maoism, Mao was not a figure of mastery, working to
 manipulate the masses to serve his own self interest. Nor did he claim 
-to have the answers, or even act as a 'teacher' of the people. 
+to have 'the answers'.
 
 However, it should be noted that there were many on among the ultra-'left' 
 who wanted to claim that Mao had the 'correct ideas' and the answers to
-resolve the social conflicts in China. These ranged from Yang Xiguang (in 1968
-was the 18 year old leader of Shengwulien an ultra-'left' mass organization
+resolve the social conflicts in China. These ranged from Yang Xiguang (
+who in 1968
+was the 18 year old leader of Shengwulien, an ultra-'left' mass organization
 of over a million people in Hunan province that referred to Mao as the 'the 
 great supreme commander of the proletariat' and called for the complete 
 overthrow of the CCP) who, after the Cultural Revolution became a professor
@@ -308,11 +309,19 @@ on the divine correctness of the Chinese Emporer.
 
 More then all of this, the aforementioned discussion with the Red Guard leaders
 in 1968 is indicative of Mao's opposition to the portrayal of him as a master
-or teacher with 'the answers'. Chen Boda, another member of the Cultural 
+with 'the answers'. Chen Boda, another member of the Cultural 
 Revolution Small Group, instructed the Red Guard leaders to 'follow the 
-Chairman’s teaching closely; resolutely carry it out.' To which Mao responded
-'Don’t talk about teachings.' Because political situations are not about 
-following teachings or instructions.
+Chairman's instructions closely; act resolutely in accordance to them.' To 
+which Mao responded 'do not say that I am giving "instructions"'. In 
+contradiction to the 'great man' understanding of history, Mao repeatedly
+emphasized that 'it is the masses that make history', which speaks to the
+subjective capacity of the people themselves to play the leading role in
+politics and qualitatively transform the world.
+
+This view stands in contrast to shared asumptions of the right and 
+ultra-'left' which both emphasize the individual as the locus of social
+contradictions and struggles.
+
 
 [go on to question of enemies]
 
